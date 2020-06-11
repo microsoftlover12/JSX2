@@ -1,8 +1,8 @@
 import React from 'react';
 
-const FunctionComponent=()=>{
+const ProfilePhoto =()=>{
     return(<img src="/koala.jpg"/>);
 }
     
 
-export default FunctionComponent;
+export default ProfilePhoto;
