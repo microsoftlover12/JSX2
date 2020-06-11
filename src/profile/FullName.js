@@ -1,9 +1,9 @@
 
 import React from 'react';
-const NewFunctionComponent=()=>{
+const FullName=()=>{
  return(<h1>Yosr Safta</h1>);
 
 }
 
 
-export default NewFunctionComponent;
+export default FullName;
